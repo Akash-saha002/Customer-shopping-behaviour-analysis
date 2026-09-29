@@ -146,7 +146,3 @@ The combination of **KPIs, slicers, charts, and category-level analysis** makes 
 **Power BI File:** `customer behaviour.pbix`
 
 ---
-
-## 🐍 Python EDA
-
-The Python notebook is used for exploratory analysis and data cleaning of the customer shopping dataset.
